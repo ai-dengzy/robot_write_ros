@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/dzy/CLionProjects/robot_write_ros/devel -DCMAKE_INSTALL_PREFIX=/home/dzy/CLionProjects/robot_write_ros/install -G Unix Makefiles
